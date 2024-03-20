@@ -1,0 +1,9 @@
+# ninja log v5
+1	430	1710890505276553726	CMakeFiles/AbstractFactory.dir/main.cpp.o	4cc544b2622014bd
+431	475	1710890505323207820	AbstractFactory	6dd0bfec565c2ac9
+5	409	1710890618035982979	CMakeFiles/AbstractFactory.dir/main.cpp.o	4cc544b2622014bd
+409	452	1710890618080719856	AbstractFactory	6dd0bfec565c2ac9
+3	338	1710890844247589262	CMakeFiles/AbstractFactory.dir/main.cpp.o	4cc544b2622014bd
+338	380	1710890844291146952	AbstractFactory	6dd0bfec565c2ac9
+4	366	1710890874989182245	CMakeFiles/AbstractFactory.dir/main.cpp.o	4cc544b2622014bd
+366	412	1710890875036154958	AbstractFactory	6dd0bfec565c2ac9
