@@ -1,3 +1,0 @@
-/Users/kendrick/Desktop/Design Patterns/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir
-/Users/kendrick/Desktop/Design Patterns/Singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kendrick/Desktop/Design Patterns/Singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
